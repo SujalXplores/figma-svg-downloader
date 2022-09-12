@@ -1,0 +1,15 @@
+{
+  "name": "figma-download",
+  "version": "1.0.0",
+  "description": "Download all svg files in figma frame",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sujal Shah",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
